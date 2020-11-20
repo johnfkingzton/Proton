@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.12</version>
-    <url>https://cdn.discordapp.com/attachments/769266398332715011/778807510965551114/Proton12.zip</url>
+    <version>1.0.0.14</version>
+    <url>https://cdn.discordapp.com/attachments/769266398332715011/779224521017393192/Proton14.zip</url>
     <changelog>https://github.com/johnfkingzton/Proton</changelog>
     <mandatory>true</mandatory>
 </item>
