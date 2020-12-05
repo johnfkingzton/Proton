@@ -1,0 +1,7 @@
+@echo off
+cls
+takeown /F C:\Windows\System32\drivers\etc\hosts
+echo Host File is now OK! Ready to Modify
+timeout 3 >null
+cls
+exit
