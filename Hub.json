@@ -13,46 +13,58 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png"
         },
         {
-            "Name": "NEW - Grand Piece Online",
+            "Name": "NEW - Blox Fruits",
+            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/azeazaza",
+            "Description":  "Exclusive GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/8aAqJH0.png"
+        },
+        {
+            "Name": "NEW - Counter Blox",
+            "Url": "https://pastebin.com/raw/ibiSXstZ",
+            "Description":  "GUI - Silent Aim, ESP, Tracers and More!",
+            "ThumbNail": "https://i.imgur.com/NHLMFpG.png"
+        },
+        {
+            "Name": "NEW - Lumber Tycoon 2",
+            "Url": "https://pastebin.com/raw/K0AYraVB",
+            "Description":  "Exclusive GUI - Money Duper, Farm, and More!",
+            "ThumbNail": "https://i.imgur.com/W8MEtN6.png"
+        },
+        {
+            "Name": "Grand Piece Online",
             "Url": "https://pastebin.com/raw/CiYmjp7w",
             "Description":  "Exclusive GUI - Auto Farm, Chest, and More!",
             "ThumbNail": "https://i.imgur.com/bdYhSRm.png"
         },
         {
-            "Name": "NEW - Bitcoin Miner",
+            "Name": "Bitcoin Miner",
             "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/btc",
             "Description": "GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/G19y3BU.jpg"
         },
         {
-            "Name": "NEW - Mortem Metallum",
+            "Name": "Mortem Metallum",
             "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mortem",
             "Description": "GUI - Silent Aim, Auto Parry, Kill All & More!",
             "ThumbNail": "https://i.imgur.com/kDH3f0i.jpg"
         },
         {
-            "Name": "NEW - Fall Block",
+            "Name": "Fall Block",
             "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/fallguys",
             "Description": "GUI - Auto Win, Teleport, Infinite Level & More!",
             "ThumbNail": "https://i.imgur.com/oRwedkD.png"
         },
         {
-            "Name": "NEW - Little World",
+            "Name": "Little World",
             "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/world",
             "Description": "GUI - Auto Farm, Kill All And More!",
             "ThumbNail": "https://i.imgur.com/RbIPp6c.jpg"
         },
         {
-            "Name": "NEW - Adopt Me",
+            "Name": "Adopt Me",
             "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/azerty",
             "Description": "Exclusive GUI - Auto Farm, Fly And More!",
             "ThumbNail": "https://i.imgur.com/2ymcZEV.png"
-        },
-        {
-            "Name": "Blox Fruits",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/azsdazd",
-            "Description":  "Exclusive GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/8aAqJH0.png"
         },
         {
             "Name": "Bloxburg",
@@ -263,12 +275,6 @@
             "Url": "https://pastebin.com/raw/3FPpv84j",
             "Description":  "GUI - Auto Farm, Insta Everything And More!",
             "ThumbNail": "https://i.imgur.com/YIsxbXC.png"
-        },
-        {
-            "Name": "Counter Blox",
-            "Url": "https://darkhub.xyz/remote-script.lua",
-            "Description":  "GUI - Silent Aim, ESP, Tracers and More!",
-            "ThumbNail": "https://i.imgur.com/xy5HYHr.png"
         },
         {
             "Name": "Heroes Legacy",
